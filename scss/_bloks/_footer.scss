@@ -1,0 +1,43 @@
+.footer__wrapper {
+  display: flex;
+  align-items: center;
+  gap: 250px;
+}
+.footer-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+footer {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.footer__logo {
+  margin-bottom: 40px;
+}
+.footer__direction {
+  color: black;
+}
+.margin {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.phone {
+  position: relative;
+}
+.phone p {
+  margin-bottom: 5px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.phone__icon {
+  position: absolute;
+  right: 160px;
+  bottom: 66%;
+}
+.phone__num {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  color: black;
+}

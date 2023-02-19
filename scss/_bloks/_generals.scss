@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+html {
+  scroll-behavior: smooth;
+}
+.container {
+  // background: #E5E5E5;
+  max-width: 1350px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+body {
+  font-family: "Barlow", sans-serif;
+  background: #e5e5e5;
+}
+// /* width */
+// ::-webkit-scrollbar {
+//     width: 10px;
+//   }
+
+//   /* Track */
+//   ::-webkit-scrollbar-track {
+//     background: #f1f1f1;
+//   }
+
+//   /* Handle */
+//   ::-webkit-scrollbar-thumb {
+//     background: #888;
+//   }
+
+//   /* Handle on hover */
+//   ::-webkit-scrollbar-thumb:hover {
+//     background: rgb(135, 5, 5);
+//   }
+
+// {
+//   padding: 50px;
+//   background-color: green;
+//   transition: transform .2s;
+//   width: 200px;
+//   height: 200px;
+//   margin: 0 auto;
+// }
+// :hover {
+//     transform: scale(1.5);
+//   }
